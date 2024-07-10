@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mobneko-keebs-doc.github.io',
+  url: 'https://yoshida-nekoha.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/mobneko-keebs-doc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yoshida-nekoha', // Usually your GitHub org/user name.
-  projectName: 'yoshida-nekoha.github.io', // Usually your repo name.
+  projectName: 'mobneko-keebs-doc', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
