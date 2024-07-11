@@ -93,7 +93,7 @@ const config: Config = {
           items: [
             {
               label: "モブ猫ショップ",
-              to: "https://mobneko-shop.booth.pm/",
+              href: "https://mobneko-shop.booth.pm",
             },
           ],
         },
@@ -109,7 +109,7 @@ const config: Config = {
             //   href: "https://discordapp.com/invite/docusaurus",
             // },
             {
-              label: "Twitter",
+              label: "X (Twitter)",
               href: "https://x.com/mobnekoha",
             },
           ],
@@ -128,7 +128,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} モブ猫ショップ | BITTO LLC. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MOBNEKO SHOP | Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
