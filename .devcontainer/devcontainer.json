@@ -15,11 +15,13 @@
   "postCreateCommand": "npm install",
   "customizations": {
     "vscode": {
-      "extensions": [
-        "esbenp.prettier-vscode"
-      ]
+      "extensions": ["esbenp.prettier-vscode"]
     }
-  }
+  },
+
+  "mounts": [
+    "source=${localEnv:HOME}${localEnv:USERPROFILE}/.bash_aliases,target=/home/node/.bash_aliases,type=bind,consistency=cached"
+  ]
 
   // Configure tool-specific properties.
   // "customizations": {},

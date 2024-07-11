@@ -6,7 +6,7 @@ tags: [shop-info, keyboard]
 image: /img/shop-logo.jpg
 ---
 
-![モブ猫ショップ](/img/shop-logo.jpg)
+[![モブ猫ショップ](/img/shop-logo.jpg)](https://mobneko-shop.booth.pm/)
 
 BOOTH で[モブ猫ショップ](https://mobneko-shop.booth.pm/)をオープンしました。
 
