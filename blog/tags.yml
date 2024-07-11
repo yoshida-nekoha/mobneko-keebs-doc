@@ -2,9 +2,9 @@ keyboard:
   label: Keyboard
   permalink: /keyboard
   description: キーボード関連
-sale:
-  label: sale
-  permalink: /sale
+shop-info:
+  label: shop-info
+  permalink: /shop-info
   description: 販売情報
 
 facebook:
