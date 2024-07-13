@@ -57,8 +57,7 @@ draft: true
 
 ### ファームウェアの準備
 
-無線化には `BLE Micro Pro` を使います。  
-コンスルーまたはピンヘッダは高さ `2.5mm` のタイプを選んでください。
+無線化には `BLE Micro Pro` を使います。
 
 1. [ブートローダーをアップデートする](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/#/update/bootloader)
    1. バージョン `ble_micro_pro_bootloader_1_2_0` を選び、BMP を USB 接続して `Update` をクリック
