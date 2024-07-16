@@ -6,3 +6,7 @@ shop-info:
   label: shop-info
   permalink: /shop-info
   description: 販売情報
+misogi:
+  label: misogi
+  permalink: /misogi
+  description: 自作キーボード「禊」関連

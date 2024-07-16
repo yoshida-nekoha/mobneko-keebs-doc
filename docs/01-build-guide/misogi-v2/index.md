@@ -59,6 +59,8 @@ update: 2024-07-11
 - `Pro Micro` の場合、基盤の一番外側にあるピンは使いません(向かって左側を 1 つあける)
 - [Pro Micro 版ファームウェアをダウンロード](/firmwares/禊v2/promicro-misogi-v2.zip)
 - [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)などを使ってファームウェアを書き込んでください
+- ファームウェア書き込みが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
+  - 繋がらない場合はいったんケーブルを抜いて再接続してみてください
 
 ### 無線化する場合(BLE Micro Pro)
 
