@@ -2,6 +2,7 @@
 title: 禊 v1 ビルドガイド
 authors: [nekoha]
 date: 2024-07-11
+image: 04.jpg
 ---
 
 はんだ付けが必要なキットです。  

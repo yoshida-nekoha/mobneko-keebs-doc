@@ -3,6 +3,7 @@ title: 禊 v2 ビルドガイド
 authors: [nekoha]
 date: 2024-07-10
 update: 2024-07-11
+image: ./236.5g.jpg
 ---
 
 背面電池バージョン。  

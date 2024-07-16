@@ -3,6 +3,7 @@ title: 禊 キーマップ紹介
 date: 2024-07-13
 authors: [nekoha]
 tags: [keyboard, misogi]
+image: ./layer0.png
 ---
 
 34 キーということで、キーマップはレイヤーを駆使していろいろ工夫が必要です。
