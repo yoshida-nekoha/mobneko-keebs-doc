@@ -1,24 +1,30 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
-import Link from '@docusaurus/Link';
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
 
 type FeatureItem = {
   title: string;
   to: string;
-  imgProps: { src: string, width: string, height: string, alt: string };
+  imgProps: { src: string; width: string; height: string; alt: string };
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '禊シリーズ',
-    to: '/mobneko-keebs-doc/docs/build-guide',
-    imgProps: { src: '/mobneko-keebs-doc/img/misogi-v2.jpg', width: '720px', height: '480px', alt: '禊' },
+    title: "禊シリーズ",
+    to: "/mobneko-keebs-doc/docs/build-guide",
+    imgProps: {
+      src: "/mobneko-keebs-doc/img/misogi-v2.jpg",
+      width: "720px",
+      height: "480px",
+      alt: "禊",
+    },
     description: (
       <>
-        片手で持てる、A5よりも小さなサイズ。<br />
-        シンプルな34キー、オーソリニアタイプです。
+        片手で持てるシンプルな34キー。
+        <br />
+        オーソリニアタイプです。
       </>
     ),
   },
@@ -27,7 +33,7 @@ const FeatureList: FeatureItem[] = [
 function Feature({ title, to, imgProps, description }: FeatureItem) {
   return (
     <Link to={to}>
-      <div className={clsx('col col--12')}>
+      <div className={clsx("col col--12")}>
         <div className="text--center">
           <img {...imgProps} />
         </div>
