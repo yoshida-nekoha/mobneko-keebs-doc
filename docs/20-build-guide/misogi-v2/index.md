@@ -38,8 +38,7 @@ image: ./236.5g.jpg
 ### 参考購入先
 
 - Pro Micro
-  - [Pro Micro: 遊舎工房](https://shop.yushakobo.jp/products/pro-micro)
-  - [中華サイトなどでも安く買えます](https://www.aliexpress.com/item/1005004900131198.html)
+  - [Pro Micro Type-C 版: 遊舎工房](https://shop.yushakobo.jp/products/3905)
 - BLE Micro Pro
   - [BLE Micro Pro Type-C 版: 遊舎工房](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449)
   - [Pro Micro サイズの USB 対応 nRF52 マイコンボード: のぎけす屋](https://booth.pm/ja/items/1177319)
@@ -69,6 +68,12 @@ image: ./236.5g.jpg
 - ファームウェア書き込みが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
   - 繋がらない場合はいったんケーブルを抜いて再接続してみてください
 
+**※ Pro Micro のバリエーション**  
+`Pro Micro` の種類によっては、USB Type-C to Type-C での接続ができません。  
+遊舎工房で扱っている[Pro Micro Type-C 版](https://shop.yushakobo.jp/products/3905)では動作確認できています。  
+[AliExpress などでも買えます](https://www.aliexpress.com/item/1005004900131198.html)が、PC 側が Type-A しか対応していない場合もあります。  
+お手持ちのコントローラボードが Type-C 接続に対応しているかの質問には答えられませんのでご了承ください。
+
 ### 無線化する場合(BLE Micro Pro)
 
 無線化には `BLE Micro Pro` を使います。  
@@ -89,7 +94,6 @@ image: ./236.5g.jpg
    1. 繋がらない場合はいったんケーブルを抜いて再接続してみてください(初回はちょっと不安定)
 
 電源スイッチは、奥側が `ON` になります。
-
 
 ## ボトムケース、スイッチレイヤの取り付け
 

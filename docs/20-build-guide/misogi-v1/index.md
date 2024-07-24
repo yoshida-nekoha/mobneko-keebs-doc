@@ -39,8 +39,7 @@ image: 04.jpg
 ### 参考購入先
 
 - Pro Micro
-  - [Pro Micro: 遊舎工房](https://shop.yushakobo.jp/products/pro-micro)
-  - [中華サイトなどでも安く買えます](https://www.aliexpress.com/item/1005004900131198.html)
+  - [Pro Micro Type-C 版: 遊舎工房](https://shop.yushakobo.jp/products/3905)
 - BLE Micro Pro
   - [BLE Micro Pro Type-C 版: 遊舎工房](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449)
   - [Pro Micro サイズの USB 対応 nRF52 マイコンボード: のぎけす屋](https://booth.pm/ja/items/1177319)
@@ -120,6 +119,12 @@ image: 04.jpg
 - [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)などを使ってファームウェアを書き込んでください
 - ファームウェア書き込みが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
   - 繋がらない場合はいったんケーブルを抜いて再接続してみてください
+
+**※ Pro Micro のバリエーション**  
+`Pro Micro` の種類によっては、USB Type-C to Type-C での接続ができません。  
+遊舎工房で扱っている[Pro Micro Type-C 版](https://shop.yushakobo.jp/products/3905)では動作確認できています。  
+[AliExpress などでも買えます](https://www.aliexpress.com/item/1005004900131198.html)が、PC 側が Type-A しか対応していない場合もあります。  
+お手持ちのコントローラボードが Type-C 接続に対応しているかの質問には答えられませんのでご了承ください。
 
 ## ボトムケース、スイッチレイヤの取り付け
 
