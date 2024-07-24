@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "モブ猫ショップ",
   tagline: "モブ猫ショップの製品情報やビルドガイド",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
   staticDirectories: ["static"],
 
   // Set the production url of your site here
