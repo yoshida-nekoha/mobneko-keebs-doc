@@ -101,7 +101,7 @@ image: 04.jpg
    1. バージョン `ble_micro_pro_vial_1_2_0` を選び、BMP を USB 接続して `Update` をクリック
    2. 接続、書き込みが終わったら次に進むようメッセージが表示されます
    3. 1 回目は接続だけで終わってしまうことがあるので、表示メッセージを確認してください
-3. [BMP 版ファームウェアをダウンロード](/firmwares/禊v2/bmp-misogi-v1.zip)して解凍
+3. [BMP 版ファームウェアをダウンロード](/firmwares/禊v1/bmp-misogi-v1.zip)して解凍
 4. コントローラを USB 接続すると、ドライブとして認識されます
    1. 解凍したファイルを上書きコピーしてください
 5. コピーが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
@@ -115,7 +115,7 @@ image: 04.jpg
 コンスルーまたはピンヘッダは USB 端子の上面が基盤から 4mm 以内となるような高さにしてください。
 
 - `Pro Micro` の場合、基盤の一番外側にあるピンは使いません(外側のピンを 1 つあける)
-- [Pro Micro 版ファームウェアをダウンロード](/firmwares/禊v2/promicro-misogi-v1.zip)
+- [Pro Micro 版ファームウェアをダウンロード](/firmwares/禊v1/promicro-misogi-v1.zip)
 - [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)などを使ってファームウェアを書き込んでください
 - ファームウェア書き込みが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
   - 繋がらない場合はいったんケーブルを抜いて再接続してみてください
