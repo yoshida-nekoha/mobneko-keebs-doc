@@ -155,6 +155,8 @@ image: 04.jpg
 
 以上で完成となります、お疲れ様でした！
 
+[#misogi34](https://x.com/search?q=%23misogi34) のハッシュタグをつけて投稿してもらえると励みになります！
+
 ## 付録
 
 - [3D プリント用 STL ファイル](/firmwares/禊v1/stl-misogi-v1.zip)
