@@ -49,6 +49,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/yoshida-nekoha/mobneko-keebs-doc/edit/main/blog/",
+          truncateMarker: /<!--\s*(more)\s*-->/,
         },
         theme: {
           customCss: "./src/css/custom.css",

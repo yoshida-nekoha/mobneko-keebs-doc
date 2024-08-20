@@ -10,3 +10,7 @@ misogi:
   label: misogi
   permalink: /misogi
   description: 自作キーボード「禊」関連
+3DP:
+  label: 3DP
+  permalink: /3d-print
+  description: 3Dプリンタ関連

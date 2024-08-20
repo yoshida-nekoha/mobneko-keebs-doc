@@ -10,6 +10,8 @@ tags: [keyboard, misogi]
 
 前のバージョンではありますが、ほぼ同等の機能と見た目を持つ「禊 v1」を少量在庫追加しました。
 
+<!-- more -->
+
 [「禊 v1」オーソリニア 34 キーボードキット](https://mobneko-shop.booth.pm/items/5929554)
 
 ## 特徴

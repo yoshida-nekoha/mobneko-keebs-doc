@@ -19,6 +19,8 @@ draft: true
 - Bluetooth 動作
 - 充電池が使える
 
+<!-- more -->
+
 ### キーボード遍歴
 
 `HHKB` → `Corne` → `Reviung41` → `BM40` → 自作キーボード という遍歴です。
