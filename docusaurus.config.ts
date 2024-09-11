@@ -129,7 +129,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} MOBNEKO SHOP | Built with Docusaurus.`,
+      copyright: `Copyright © 2024 MOBNEKO SHOP | Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
