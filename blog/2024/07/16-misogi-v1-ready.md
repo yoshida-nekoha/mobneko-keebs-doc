@@ -32,8 +32,8 @@ tags: [keyboard, misogi]
 
 ## ビルドガイド
 
-[禊 v1 ビルドガイド](https://yoshida-nekoha.github.io/mobneko-keebs-doc/docs/build-guide/misogi-v1)
+[禊 v1 ビルドガイド](/docs/build-guide/misogi-v1)
 
 ## 関連記事
 
-[禊 キーマップ紹介](/mobneko-keebs-doc/blog/2024/07/13/keymaps)
+[禊 キーマップ紹介](/blog/2024/07/13/keymaps)
