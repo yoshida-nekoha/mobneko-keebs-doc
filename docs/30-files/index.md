@@ -10,20 +10,21 @@ authors: [nekoha]
 - STL ファイルはジャストサイズで作成しているので、プリント素材の収縮率に合わせて調整してください
   - 3D プリンタの使い方についてはサポートできません
 
-**参考まで、BOOTH 配布バージョン** はPLA のフィラメントで
+## 禊 v3
 
-- トップケース `100.20%`
-- ボトムケース、スイッチレイヤは `100.00%`
+- [BMP 用ファームウェア](/firmwares/禊v3/bmp-misogi-v3.zip)
+- [3D プリント用 STL ファイル(v3.1)](/firmwares/禊v3/stl-misogi-v3.1.zip)
+<!-- - [ProMicro 用ファームウェア](/firmwares/禊v3/promicro-misogi-v3.zip) -->
 
-で出力しています。
+## 終売モデル
 
-## 禊 v1
+### 禊 v1
 
 - [BMP 用ファームウェア](/firmwares/禊v1/bmp-misogi-v1.zip)
 - [ProMicro 用ファームウェア](/firmwares/禊v1/promicro-misogi-v1.zip)
 - [3D プリント用 STL ファイル](/firmwares/禊v1/stl-misogi-v1.zip)
 
-## 禊 v2
+### 禊 v2
 
 - [BMP 用ファームウェア](/firmwares/禊v2/bmp-misogi-v2.zip)
 - [ProMicro 用ファームウェア](/firmwares/禊v2/promicro-misogi-v2.zip)
