@@ -113,9 +113,9 @@ ProMicro を組み付け、ファームウェアを書き込みます。
 `Vial` に対応しています。
 
 - `Pro Micro` の場合、基盤の一番外側にあるピンは使いません(向かって左側を 1 つあける)
-- [Pro Micro 版ファームウェアをダウンロード](/firmwares/禊v3/promicro-misogi-v3.zip)
+- [Pro Micro 版ファームウェア](/firmwares/禊v3/promicro-misogi-v3.zip)をダウンロード
 - [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)などを使ってファームウェアを書き込んでください
-- ファームウェア書き込みが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
+- ファームウェア書き込みが終わったら[Vial Web](https://vial.rocksob/)からキーマップをリアルタイムに編集できます！
   - 繋がらない場合はいったんケーブルを抜いて再接続してみてください
 
 **※ Pro Micro のバリエーション**  
