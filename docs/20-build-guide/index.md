@@ -18,9 +18,10 @@ title: ビルドガイド
 
 ## ビルドガイド
 
-- [禊 v3 ビルドガイド](/docs/build-guide/misogi-v3) New!!
+- [禊 v3](/docs/build-guide/misogi-v3) New!!
+- [シン禊](/docs/build-guide/thin-misogi) New!!
 
-## 終売モデル
+## ビルドガイド・終売モデル
 
-- [禊 v1 ビルドガイド](/docs/build-guide/misogi-v1)
-- [禊 v2 ビルドガイド](/docs/build-guide/misogi-v2)
+- [禊 v1](/docs/build-guide/misogi-v1)
+- [禊 v2](/docs/build-guide/misogi-v2)

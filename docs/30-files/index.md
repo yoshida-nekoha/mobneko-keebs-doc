@@ -13,8 +13,13 @@ authors: [nekoha]
 ## 禊 v3
 
 - [BMP 用ファームウェア](/firmwares/禊v3/bmp-misogi-v3.zip)
-- [3D プリント用 STL ファイル(v3.1)](/firmwares/禊v3/stl-misogi-v3.1.zip)
 - [ProMicro 用ファームウェア](/firmwares/禊v3/promicro-misogi-v3.zip)
+- [3D プリント用 STL ファイル(v3.1)](/firmwares/禊v3/stl-misogi-v3.1.zip)
+
+## シン禊
+
+- [ProMicro 用ファームウェア](/firmwares/禊v3/promicro-misogi-v3.zip)
+<!-- - [BMP 用ファームウェア](/firmwares/禊v3/bmp-misogi-v3.zip) -->
 
 ## 終売モデル
 
