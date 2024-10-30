@@ -198,9 +198,9 @@ BMP を使う場合は電池ボックス、電源スイッチ、昇圧コンバ�
 以上で完成となります、お疲れ様でした！  
 [#misogi34](https://x.com/search?q=%23misogi34) のハッシュタグをつけて投稿してもらえると励みになります！
 
-## 付録
+<!-- ## 付録
 
-- [3D プリント用 STL ファイル](/firmwares/禊v3/stl-thin-misogi-v3.zip)
+- [3D プリント用 STL ファイル](/firmwares/禊v3/stl-thin-misogi-v3.zip) -->
 
 <!-- ## 履歴
 
