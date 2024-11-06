@@ -18,8 +18,8 @@ authors: [nekoha]
 
 ## シン禊
 
-- [ProMicro 用ファームウェア](/firmwares/禊v3/promicro-misogi-v3.zip)
-<!-- - [BMP 用ファームウェア](/firmwares/禊v3/bmp-misogi-v3.zip) -->
+- [シン禊用ファームウェア(禊 v3 と共通)](/firmwares/禊v3/promicro-misogi-v3.zip)
+- [3D プリント用 STL ファイル](/firmwares/thin禊v1/thin-misogi-v1.zip)
 
 ## 終売モデル
 
