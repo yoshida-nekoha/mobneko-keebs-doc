@@ -11,3 +11,5 @@ tags: [keyboard, misogi]
 現状は`ProMicro`版のみ。
 
 いずれ BMP に対応した無線版も出したいところ。
+
+<!-- more -->
