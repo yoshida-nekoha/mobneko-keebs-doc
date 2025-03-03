@@ -10,7 +10,8 @@ image: ./thin-misogi-10.jpg
 禊をベースに、LowProfile 対応で薄型(thin)化した「シン禊」です。  
 禊シリーズの特徴でもある単４をあきらめ、AAAA(単6) 電池搭載でより高さを抑える設計にしました。  
 
-せっかくの薄型・軽量キーボードですが、諸事情により ProMicro 版のみで販売開始です。
+~~せっかくの薄型・軽量キーボードですが、諸事情により ProMicro 版のみで販売開始です。~~  
+実はパーツの調達を間違えていただけだったので、BMPがあれば無線動作も可能となりました！
 
 
 ![薄型軽量コンパクト！](./thin-misogi-10.jpg)
@@ -25,10 +26,10 @@ image: ./thin-misogi-10.jpg
 - トップケース
 - ネジ M2x8mm 6 本
 - ゴム足 3 個
-<!-- - 電源部品(ProMicro 版には付属しません)
+- 電源部品(ProMicro 版には付属しません)
   - 昇圧コンバータ
   - トグル式電源スイッチ
-  - AAAA 電池クリップ -->
+  - AAAA 電池クリップ
 
 ### 別売り(ご自分で用意してください)
 
@@ -36,23 +37,23 @@ image: ./thin-misogi-10.jpg
 - 上記ソケットと互換性のあるキースイッチ 34 個
 - 上記キースイッチと互換性のあるキーキャップ 1u 34 個
 - マイコンボード
-  - ProMicro(USB Type-C 対応版)
-  <!-- - `Pro Micro` or `BLE Micro Pro`(下記参照) -->
-- 12 ピンのコンスルー、またはピンヘッダ、高さは 2.5mm
-<!-- - 12pin か BMP の場合 13pin のコンスルー、またはピンヘッダ、高さは 2.5mm -->
+  - `Pro Micro` or `BLE Micro Pro`(下記参照)
+- 12pin か BMP の場合 13pin のコンスルー、またはピンヘッダ、高さは 2.5mm
 
 ## パーツの参考購入先
 
-<!-- - BLE Micro Pro(どちらで購入しても OK)
+- BLE Micro Pro(どちらで購入しても OK)
   - [BLE Micro Pro Type-C 版: 遊舎工房](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449)
-  - [Pro Micro サイズの USB 対応 nRF52 マイコンボード: のぎけす屋](https://booth.pm/ja/items/1177319) -->
+  - [Pro Micro サイズの USB 対応 nRF52 マイコンボード: のぎけす屋](https://booth.pm/ja/items/1177319)
 
 国内では「[遊舎工房](https://shop.yushakobo.jp/)」、「[TALP KEYBOARD](https://talpkeyboard.net/)」が有名です。  
 `Pro Micro` やスイッチソケットは `AliExpress` などでも購入できます。
 
 ### 遊舎工房で揃える
 
-- [Pro Micro Type-C 版](https://shop.yushakobo.jp/products/3905)
+- コントローラ
+  - [Pro Micro Type-C 版](https://shop.yushakobo.jp/products/3905)
+  - [BLE Micro Pro Type-C 版: 遊舎工房](https://shop.yushakobo.jp/products/ble-micro-pro?variant=37665571340449)
 - [コンスルー](https://shop.yushakobo.jp/products/31?variant=37665714405537)
   - 12 ピンで 2.5mm 高が適合します
   - 2 つ必要です
@@ -81,7 +82,7 @@ image: ./thin-misogi-10.jpg
 
 ## マイコンの用意
 
-<!--
+
 ### マイコンの用意(BMP 版)
 
 BMP を組み付け、ファームウェアを書き込みます。
@@ -99,7 +100,7 @@ BMP を組み付け、ファームウェアを書き込みます。
 4. マイコンボードを USB 接続すると、ドライブとして認識されます
    1. 解凍したファイルを上書きコピーしてください
 5. コピーが終わったら[Vial Web](https://vial.rocks/)からキーマップをリアルタイムに編集できます！
-   1. 繋がらない場合はいったんケーブルを抜いて再接続してみてください(初回はちょっと不安定) -->
+   1. 繋がらない場合はいったんケーブルを抜いて再接続してみてください(初回はちょっと不安定)
 
 ### マイコンの用意(ProMicro 版)
 
@@ -135,7 +136,7 @@ choc 互換のソケット(34 個)を用意し、基盤の裏面にハンダ付�
 34 個のソケットすべてをハンダ付けしてください。  
 ![ソケットのハンダ付け](./thin-misogi-01.jpg)
 
-<!-- ### 電源部品の組付け
+### 電源部品の組付け
 
 BMP を使う場合は電池ボックス、電源スイッチ、昇圧コンバータを組み付けます。
 
@@ -156,7 +157,7 @@ BMP を使う場合は電池ボックス、電源スイッチ、昇圧コンバ�
 ### 電源スイッチの取り付け
 
 電源スイッチは、取付向きに注意してください。
-押し込んだときに ON にしたい場合は写真のような向きで配置します。 -->
+押し込んだときに ON にしたい場合は写真のような向きで配置します。
 
 ### マイコンボードの取り付け
 
@@ -243,8 +244,9 @@ BMP を使う場合は電池ボックス、電源スイッチ、昇圧コンバ�
 ## 付録
 
 - [シン禊用ファームウェア(禊 v3 と共通)](/firmwares/禊v3/promicro-misogi-v3.zip)
-- [3D プリント用 STL ファイル](/firmwares/thin禊v1/thin-misogi-v1.zip)
+- [3D プリント用 STL ファイル](/firmwares/thin禊v1/thin-misogi-stl.zip)
 
 ## 履歴
 
 - 2024-11-07 販売開始
+- 2025-03-04 BMP版ドキュメント追加
