@@ -4,6 +4,7 @@
 
 2. ProMicroケース
 'misogi-v3.2 top-PM.stl'
+'misogi-v3.2.1_PM-top.stl'
 
 3. BMP開放型
 'misogi-v3.2 top-BMP-open.stl'

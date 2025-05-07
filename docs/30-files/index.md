@@ -7,14 +7,24 @@ authors: [nekoha]
 
 - ファームウェアは `BMP`, `ProMicro` とも `Vial` に対応しています
   - `Remap` には非対応です
-- STL ファイルはジャストサイズで作成しているので、プリント素材の収縮率に合わせて調整してください
-  - 3D プリンタの使い方についてはサポートできません
+- ケースデータを公開していますが、3D プリンタの使い方についてはサポートできません
 
 ## 禊 v3.2
 
+### ファームウェア
+
 - [禊 v3.2 用ファームウェア(ProMicro)](/firmwares/禊v3.2/promicro-misogi-v3.zip)
 - [禊 v3.2 用ファームウェア(BMP)](/firmwares/禊v3.2/misogi-bmp-v3.2.zip)
-- [禊 v3.2 用 3D プリント用 STL ファイル](/firmwares/禊v3.2/stl-misogi-v3.2.zip)
+
+### ケース
+
+- [禊 v3.2 ProMicro 用(v3.2.1)](/firmwares/禊v3.2/misogi_v3.2.1_PM.zip)
+- [禊 v3.2 BMP 用(v3.2.1)](/firmwares/禊v3.2/kaku-misogi.zip)
+  - 電池開放タイプのスリム角形ケース
+- [禊 v3.2 BMP 用(v3.2.1)](/firmwares/禊v3.2/kawaii-misogi.zip)
+  - マグネット利用のカワイイやつ
+- 旧バージョンはこちら
+  - [禊 v3.2 用(ProMicro 用、BMP 用同梱)](/firmwares/禊v3.2/stl-misogi-v3.2.zip)
 
 ## シン禊
 
